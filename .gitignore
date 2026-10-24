@@ -1,4 +1,6 @@
-ignoredfile.txt
 
 # Windows Zone.Identifier files
 *:Zone.Identifier
+
+node_modules
+dist
