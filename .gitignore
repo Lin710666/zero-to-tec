@@ -1,6 +1,19 @@
+# dependencies
+node_modules/
 
-# Windows Zone.Identifier files
-*:Zone.Identifier
+# next.js
+.next/
+out/
 
-node_modules
-dist
+# production
+build/
+dist/
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+
+# misc
+.DS_Store
+*.log
+.env*
